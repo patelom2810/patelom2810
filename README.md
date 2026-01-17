@@ -1,51 +1,26 @@
-# Om Patel - Portfolio
+<h1 align="center">Hi 👋, I'm Om Patel</h1>
+<h3 align="center">A passionate Data Analyst & AI/ML Engineer from India</h3>
 
-> A creative Data Analyst passionate about transforming raw data into meaningful insights and building intelligent AI-driven solutions.
+- 🌱 I’m currently learning **Data Science, AI/ML**
 
-## About Me
+- 📫 How to reach me **omashwin28@gmail.com**
 
-**Hello there! My name is Om Patel.**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="mailto:omashwin28@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="omashwin28@gmail.com" height="30" /></a>
+<a href="https://ommpatel.netlify.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio" height="30" /></a>
+</p>
 
-I am a Data Analyst & AI/ML Engineer passionate about leveraging statistical modeling and machine learning to drive decision-making. Currently based in Khambhat, India, I work on impactful projects that blend design and functionality.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
+</p>
 
-## Skills
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ommpatel&show_icons=true&locale=en&layout=compact" alt="ommpatel" /></p>
 
-*   **Data Analytics**: Transforming complex data into actionable insights.
-*   **AI/ML**: Building intelligent models and solutions.
-*   **Statistical Modeling**: Leveraging statistics for decision-making.
-*   **Web Development**: Blending design and functionality in web projects.
-
-## Education
-
-*   **Masters of Computer Application & IT**
-    *   *Specialization*: Data Analytics & AI/ML
-    *   *Status*: In Progress
-
-*   **Bachelor of Computer Application & IT**
-    *   *Institution*: Science Academy, Sardar Patel University
-    *   *GPA*: 8.0
-
-*   **Higher Secondary: Science**
-    *   *Focus*: Physics, Chemistry, Maths
-    *   *Final Grade*: 50%
-
-## Projects
-
-### Blinkit Analysis
-Comprehensive sales and outlet performance dashboard.
-
-### Pizza Sales
-Visualizing daily trends and top-selling pizza categories.
-
-[View Web Development Work](https://ommpatel.netlify.app/web_projects)
-
-## Contact
-
-Feel free to reach out for collaborations, job opportunities, or just a friendly hello!
-
-*   **Location**: Khambhat, India
-*   **Email**: omashwin28@gmail.com
-*   **Phone**: 
-
----
-© 2025 Om Patel. All rights reserved.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ommpatel&" alt="ommpatel" /></p>
