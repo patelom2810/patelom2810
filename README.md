@@ -1,24 +1,51 @@
-<h1 align="center">Hi 👋, I'm Om Patel</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+# Om Patel - Portfolio
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelom2810&label=Profile%20views&color=0e75b6&style=flat" alt="patelom2810" /> </p>
+> A creative Data Analyst passionate about transforming raw data into meaningful insights and building intelligent AI-driven solutions.
 
-- 🔭 I’m currently working on **Parking Management System**
+## About Me
 
-- 🌱 I’m currently learning **django,js**
+**Hello there! My name is Om Patel.**
 
-- 📫 How to reach me **patelom2810@gmail.com**
+I am a Data Analyst & AI/ML Engineer passionate about leveraging statistical modeling and machine learning to drive decision-making. Currently based in Khambhat, India, I work on impactful projects that blend design and functionality.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/om-patel-1a929831b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-patel-1a929831b" height="30" width="40" /></a>
-</p>
+## Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+*   **Data Analytics**: Transforming complex data into actionable insights.
+*   **AI/ML**: Building intelligent models and solutions.
+*   **Statistical Modeling**: Leveraging statistics for decision-making.
+*   **Web Development**: Blending design and functionality in web projects.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=patelom2810&show_icons=true&locale=en&layout=compact" alt="patelom2810" /></p>
+## Education
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelom2810&show_icons=true&locale=en" alt="patelom2810" /></p>
+*   **Masters of Computer Application & IT**
+    *   *Specialization*: Data Analytics & AI/ML
+    *   *Status*: In Progress
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patelom2810&" alt="patelom2810" /></p>
+*   **Bachelor of Computer Application & IT**
+    *   *Institution*: Science Academy, Sardar Patel University
+    *   *GPA*: 8.0
+
+*   **Higher Secondary: Science**
+    *   *Focus*: Physics, Chemistry, Maths
+    *   *Final Grade*: 50%
+
+## Projects
+
+### Blinkit Analysis
+Comprehensive sales and outlet performance dashboard.
+
+### Pizza Sales
+Visualizing daily trends and top-selling pizza categories.
+
+[View Web Development Work](https://ommpatel.netlify.app/web_projects)
+
+## Contact
+
+Feel free to reach out for collaborations, job opportunities, or just a friendly hello!
+
+*   **Location**: Khambhat, India
+*   **Email**: omashwin28@gmail.com
+*   **Phone**: +91 9054 203388
+
+---
+© 2025 Om Patel. All rights reserved.
