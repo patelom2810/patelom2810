@@ -45,7 +45,7 @@ Feel free to reach out for collaborations, job opportunities, or just a friendly
 
 *   **Location**: Khambhat, India
 *   **Email**: omashwin28@gmail.com
-*   **Phone**: +91 9054 203388
+*   **Phone**: 
 
 ---
 © 2025 Om Patel. All rights reserved.
