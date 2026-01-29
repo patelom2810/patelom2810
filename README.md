@@ -1,52 +1,64 @@
-
-
 # 👋 Hi, I'm **Om Patel**
 
-![Portfolio Banner](https://ommpatel.netlify.app/)
+<p align="center">
+  <img src="https://ommpatel.netlify.app/" alt="Portfolio Banner" />
+</p>
 
 Welcome to my portfolio! I am a **Data Analyst & AI/ML Engineer** passionate about transforming raw data into meaningful insights and building intelligent solutions.
 
-🔗 Live Site: https://ommpatel.netlify.app/
+🔗 **Live Portfolio:** https://ommpatel.netlify.app/
 
 ---
 
 ## 🚀 About Me
 
-I am currently **seeking job opportunities** where I can contribute my skills in data analytics, visualization, and AI/ML. I enjoy working on impactful projects and continuously learning new technologies.
+I am currently **seeking job opportunities** where I can contribute my skills in **data analytics, visualization, and AI/ML**.  
+I enjoy working on **real-world data problems** and continuously learning new technologies.
 
-📍 Based in: **Ahemdabad, Gujarat, India**  
-📧 Email: **omashwin28@gmail.com**  
-
+📍 **Location:** Ahmedabad, Gujarat, India  
+📧 **Email:** omashwin28@gmail.com  
 
 ---
 
 ## 🛠️ Tech Stack
 
-Here are some of the tools and technologies I work with:
-
 ### 📊 Data Analytics & Visualization
-
-![Power BI](https://img.shields.io/badge/PowerBI-Workspace-blue?logo=power-bi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-DataViz-orange?logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-Spreadsheet-green?logo=microsoft-excel&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=powerbi" height="50" />
+  <img src="https://skillicons.dev/icons?i=tableau" height="50" />
+  <img src="https://skillicons.dev/icons?i=excel" height="50" />
+</p>
 
 ### 🧠 Programming & Machine Learning
-
-![Python](https://img.shields.io/badge/Python-Code-blue?logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-black?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-yellow?logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-red?logo=tensorflow&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-blue?logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" height="50" />
+  <img src="https://skillicons.dev/icons?i=pandas" height="50" />
+  <img src="https://skillicons.dev/icons?i=numpy" height="50" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" />
+</p>
 
 ### 🗄️ Databases & Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="50" />
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Backend-orange?logo=firebase&logoColor=white)
+---
 
+## 🔎 What I Do
+
+- 📈 Build **interactive dashboards** using Power BI & Tableau  
+- 🧹 Perform **data cleaning & preprocessing** with Python  
+- 🤖 Develop **machine learning models**  
+- 🗄️ Work with **SQL & NoSQL databases**  
+- 📊 Convert complex datasets into **actionable insights**
+
+---
 
 ## 💬 Get in Touch
 
-I’m open to collaborations, job opportunities, or just a friendly chat about tech!
+I’m open to **job opportunities, internships, collaborations**, or just a tech discussion ☕
 
 📧 **Email:** omashwin28@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/om-patel/  
@@ -56,6 +68,7 @@ I’m open to collaborations, job opportunities, or just a friendly chat about t
 
 ## 💖 Thank You!
 
-Thank you for visiting my portfolio and GitHub!  
-Connect with me to explore more 📩
+Thanks for visiting my GitHub profile!  
+Feel free to explore my projects and connect with me 🚀
 
+⭐ *If you like my work, consider starring my repositories*
