@@ -63,7 +63,8 @@ I’m open to **job opportunities, internships, freelance work, and collaboratio
 
 📧 **Email:** omashwin28@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/om-patel/  
-🐙 **GitHub:** https://github.com/ommpatel  
+🐙 **GitHub:** https://github.com/patelom2810
+
 
 ---
 
