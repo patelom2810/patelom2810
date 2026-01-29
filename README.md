@@ -1,11 +1,5 @@
 # 👋 Hi, I'm **Om Patel**
 
-<p align="center">
-  <a href="https://ommpatel.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ommpatel/ommpatel/main/banner.png" alt="Portfolio Banner" />
-  </a>
-</p>
-
 Welcome to my portfolio!  
 I am a **Data Analyst & AI/ML Engineer** passionate about transforming raw data into meaningful insights and building intelligent solutions.
 
@@ -49,15 +43,6 @@ I love solving **real-world data problems** and continuously upgrading my techni
   <img src="https://skillicons.dev/icons?i=mysql" height="55" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
   <img src="https://skillicons.dev/icons?i=firebase" height="55" />
-</p>
-
----
-
-### 🌐 Web Technologies (Bonus)
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="55" />
-  <img src="https://skillicons.dev/icons?i=css" height="55" />
-  <img src="https://skillicons.dev/icons?i=javascript" height="55" />
 </p>
 
 ---
