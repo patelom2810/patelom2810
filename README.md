@@ -9,7 +9,7 @@
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=patelom2810&theme=black-ice&ring=F79C1E&fire=F79C1E&currStreakLabel=F79C1E&border_radius=12" />
+  <img src="https://streak-stats.demolab.com?user=patelom2810&theme=light&ring=F79C1E&fire=F79C1E&currStreakLabel=F79C1E&border_radius=12" />
 </p>
 
 ---
