@@ -1,8 +1,28 @@
 # 👋 Hi, I'm Om Patel  
 
-🚀 **Data Analyst | AI/ML Engineer | Business Intelligence Enthusiast**  
+🚀 **Data Analyst | AI/ML Engineer | Prompt Engineering**  
 
 🔗 **Live Portfolio:** https://ommpatel.netlify.app/
+
+---
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=patelom2810&theme=black-ice&ring=F79C1E&fire=F79C1E&currStreakLabel=F79C1E&border_radius=12" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=patelom2810&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelom2810&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -10,7 +30,7 @@
 
 I am a **Data Analyst & AI/ML Engineer** based in **Ahmedabad, Gujarat, India**, passionate about transforming raw data into meaningful insights and building intelligent solutions.  
 
-I specialize in data analysis, visualization, and machine learning to solve real-world business problems.
+I specialize in Data Analytics, Visualization, and Machine Learning to solve real-world business problems.
 
 📍 Location: Ahmedabad, Gujarat, India  
 📧 Email: omashwin28@gmail.com  
@@ -25,6 +45,7 @@ I specialize in data analysis, visualization, and machine learning to solve real
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/kaggle.png" height="50"/>
 </p>
 
 ---
@@ -36,6 +57,7 @@ I specialize in data analysis, visualization, and machine learning to solve real
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+  <img src="https://img.icons8.com/color/96/hugging-face.png" height="50"/>
 </p>
 
 ---
@@ -53,7 +75,7 @@ I specialize in data analysis, visualization, and machine learning to solve real
 ## 🔎 What I Do  
 
 ✔ Build interactive dashboards using Power BI & Tableau  
-✔ Clean & preprocess complex datasets using Python  
+✔ Perform Data Cleaning & Preprocessing using Python  
 ✔ Develop and evaluate Machine Learning models  
 ✔ Work with SQL & NoSQL databases  
 ✔ Convert complex data into actionable business insights  
