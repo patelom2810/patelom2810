@@ -46,7 +46,6 @@ I specialize in Data Analytics, Visualization, and Machine Learning to solve rea
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
-  <img src="https://img.icons8.com/color/96/hugging-face.png" height="50"/>
 </p>
 
 ---
