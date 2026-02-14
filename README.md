@@ -86,7 +86,7 @@ Actively seeking opportunities as:
 - Data Analyst  
 - Business Analyst  
 - AI/ML Engineer  
-- Business Intelligence Developer  
+- Prompt Engineering
 
 Open to full-time, internships, freelance, and collaboration opportunities.
 
