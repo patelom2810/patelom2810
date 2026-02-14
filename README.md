@@ -34,7 +34,6 @@ I specialize in Data Analytics, Visualization, and Machine Learning to solve rea
   <img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
   <img src="https://img.icons8.com/color/96/tableau-software.png" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/>
-  <img src="https://img.icons8.com/color/96/kaggle.png" height="50"/>
 </p>
 
 
