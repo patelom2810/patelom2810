@@ -28,12 +28,15 @@ I specialize in Data Analytics, Visualization, and Machine Learning to solve rea
 
 ### 📊 Data Analytics & Visualization  
 
+## 📊 Data Analytics & Visualization  
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="50"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="50"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/>
   <img src="https://img.icons8.com/color/96/kaggle.png" height="50"/>
 </p>
+
 
 ---
 
