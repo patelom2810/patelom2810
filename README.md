@@ -1,6 +1,5 @@
-<!-- Small Analytics Animation (Top Right) -->
 <p align="right">
-  <img src="https://media.giphy.com/media/Y2bmgFIyzz7r2/giphy.gif" width="120"/>
+  <img src="https://quickchart.io/chart?c={type:'bar',data:{labels:['Python','ML','SQL'],datasets:[{data:[85,90,80]}]}}" width="300"/>
 </p>
 
 # Om Patel
