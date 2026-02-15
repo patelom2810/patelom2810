@@ -1,6 +1,10 @@
-# Om Patel
+<h1 style="font-family: 'Brush Script MT', cursive; color:#2E8B57; font-size:48px;">
+Om Patel
+</h1>
 
-### Data Analyst | AI/ML Engineer | Prompt Engineering Specialist
+<h3 style="font-weight:500;">
+Data Analyst | AI/ML Engineer | Prompt Engineering Specialist
+</h3>
 
 ---
 
@@ -20,10 +24,9 @@ I specialize in transforming raw data into actionable insights using analytics, 
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-patel/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelom2810)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/om-patel-1a929831b)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/patelom2810)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Projects-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ompatel281004)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=patelom2810&label=Profile%20Views&color=2E8B57&style=for-the-badge)
 
