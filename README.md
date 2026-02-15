@@ -1,5 +1,5 @@
 <h1 style="font-family: 'Brush Script MT', cursive; color:#2E8B57; font-size:48px;">
-Om Patel
+Hi 👋, I'm Om Patel
 </h1>
 
 <h3 style="font-weight:500;">
@@ -47,6 +47,8 @@ I specialize in transforming raw data into actionable insights using analytics, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
 <img src="https://img.icons8.com/color/96/firebase.png" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" style="margin-right:10px;"/>
+<img src="https://img.icons8.com/color/96/google-colab.png" height="45" style="margin-right:10px;"/>
 
 
 </p>
