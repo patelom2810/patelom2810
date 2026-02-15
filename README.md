@@ -1,26 +1,42 @@
 # 👋 Hi, I'm Om Patel  
 
-🚀 **Data Analyst | AI/ML Engineer | Prompt Engineering**  
+🚀 Data Analyst | AI/ML Engineer | Business Intelligence Enthusiast  
 
-🔗 **Live Portfolio:** https://ommpatel.netlify.app/
+🔗 Live Portfolio: https://ommpatel.netlify.app/
 
 ---
 
-## 🔥 GitHub Contribution Streak
+## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=patelom2810&theme=light&ring=F79C1E&fire=F79C1E&currStreakLabel=F79C1E&border_radius=12" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=patelom2810&theme=github-dark&hide_border=true" />
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=patelom2810&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=patelom2810&theme=github_dark" />
+</p>
+
+---
+
 ## 🚀 About Me  
 
-I am a **Data Analyst & AI/ML Engineer** based in **Ahmedabad, Gujarat, India**, passionate about transforming raw data into meaningful insights and building intelligent solutions.  
+I am a Data Analyst & AI/ML Engineer based in Ahmedabad, Gujarat, India, passionate about transforming raw data into meaningful insights and building intelligent solutions.
 
-I specialize in Data Analytics, Visualization, and Machine Learning to solve real-world business problems.
+✔ Data Analytics & Visualization  
+✔ Machine Learning & AI Solutions  
+✔ SQL & NoSQL Databases  
+✔ Business Intelligence Dashboards  
 
-📍 Location: Ahmedabad, Gujarat, India  
-📧 Email: omashwin28@gmail.com  
+📍 Ahmedabad, India  
+📧 omashwin28@gmail.com  
 
 ---
 
@@ -28,23 +44,21 @@ I specialize in Data Analytics, Visualization, and Machine Learning to solve rea
 
 ### 📊 Data Analytics & Visualization  
 
-## 📊 Data Analytics & Visualization  
-
 <p align="left">
-  <img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
-  <img src="https://img.icons8.com/color/96/tableau-software.png" height="50"/>
-  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/>
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/96/tableau-software.png" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/> &nbsp;
+  <img src="https://img.icons8.com/color/96/kaggle.png" height="50"/>
 </p>
-
 
 ---
 
 ### 🧠 Programming, ML & Data Science  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
 </p>
 
@@ -53,56 +67,46 @@ I specialize in Data Analytics, Visualization, and Machine Learning to solve rea
 ### 🗄️ Databases & Backend  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50"/>
 </p>
 
 ---
 
-## 🔎 What I Do  
+## 🌐 Connect with Me
 
-✔ Build interactive dashboards using Power BI & Tableau  
-✔ Perform Data Cleaning & Preprocessing using Python  
-✔ Develop and evaluate Machine Learning models  
-✔ Work with SQL & NoSQL databases  
-✔ Convert complex data into actionable business insights  
+<p align="center">
 
----
+<a href="https://www.linkedin.com/in/om-patel/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-## 📌 Featured Projects  
+<a href="https://github.com/patelom2810" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-🔹 Sales Performance Dashboard (Power BI)  
-🔹 Customer Churn Prediction (Machine Learning)  
-🔹 Exploratory Data Analysis with Python  
-🔹 SQL Data Analysis Projects  
+<a href="https://www.kaggle.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
 
----
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
 
-## 🎯 Career Objective  
-
-Actively seeking opportunities as:  
-
-- Data Analyst  
-- Business Analyst  
-- AI/ML Engineer  
-- Prompt Engineering
-
-Open to full-time, internships, freelance, and collaboration opportunities.
+</p>
 
 ---
 
-## 🌐 Connect With Me  
+## 👀 Profile Views
 
-🔗 LinkedIn: https://www.linkedin.com/in/om-patel/  
-🐙 GitHub: https://github.com/patelom2810  
-📧 Email: omashwin28@gmail.com  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=patelom2810&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
 ## ⭐ Thank You  
 
-Thank you for visiting my GitHub profile 🙌  
-If you like my work, feel free to ⭐ star my repositories and connect with me!  
-
-Let's build something impactful with data 🚀
+Thanks for visiting my profile!  
+If you like my work, feel free to ⭐ star my repositories and connect with me 🚀
