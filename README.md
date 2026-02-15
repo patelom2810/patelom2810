@@ -45,7 +45,7 @@ I specialize in transforming raw data into actionable insights using analytics, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
 <img src="https://img.icons8.com/color/96/firebase.png" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" style="margin-right:10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="60"/>
 <img src="https://img.icons8.com/color/96/google-colab.png" height="45" style="margin-right:10px;"/>
 
 
