@@ -31,21 +31,23 @@ I specialize in transforming raw data into actionable insights using analytics, 
 ![Profile Views](https://komarev.com/ghpvc/?username=patelom2810&label=Profile%20Views&color=2E8B57&style=for-the-badge)
 
 ---
-
 ## 🛠 Technical Stack
 
-<img src="https://img.icons8.com/color/96/power-bi.png" height="45"/>
-<img src="https://img.icons8.com/color/96/tableau-software.png" height="45"/>
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="45"/>
-<img src="https://img.icons8.com/color/96/amazon-web-services.png" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+<p style="white-space: nowrap; overflow-x: auto;">
+
+<img src="https://img.icons8.com/color/96/power-bi.png" height="45" style="margin-right:10px;"/>
+<img src="https://img.icons8.com/color/96/tableau-software.png" height="45" style="margin-right:10px;"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="45" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="45" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="45" style="margin-right:10px;"/>
+<img src="https://img.icons8.com/color/96/amazon-web-services.png" height="45" style="margin-right:10px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
 
+</p>
 ---
 
 ## 📈 GitHub Activity
