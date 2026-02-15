@@ -46,6 +46,8 @@ I specialize in transforming raw data into actionable insights using analytics, 
 <img src="https://img.icons8.com/color/96/amazon-web-services.png" height="45" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" style="margin-right:10px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
+s
 
 </p>
 ---
