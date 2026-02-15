@@ -1,6 +1,13 @@
+<!-- Small Analytics Animation (Top Right) -->
+<p align="right">
+  <img src="https://media.giphy.com/media/Y2bmgFIyzz7r2/giphy.gif" width="120"/>
+</p>
+
 # Om Patel
 
-### Data Analyst | AI/ML Engineer | Business Intelligence Professional
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=22&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=700&lines=Data+Analyst;AI%2FML+Engineer;Prompt+Engineering+Specialist" />
+</p>
 
 ---
 
@@ -46,11 +53,12 @@
 ## 🚀 About Me
 
 Data Analyst & AI/ML Engineer based in Ahmedabad, India.  
-Focused on delivering business impact through analytics, machine learning, big data, and cloud solutions.
+Focused on transforming data into business value using analytics, machine learning, big data, cloud computing, and prompt engineering.
 
 • Data Analytics & Visualization  
 • Machine Learning & Predictive Modeling  
-• Big Data Processing  
+• Prompt Engineering & Generative AI  
+• Big Data Processing (Hadoop)  
 • AWS Cloud Services  
 • SQL & NoSQL Databases  
 
@@ -63,12 +71,13 @@ Focused on delivering business impact through analytics, machine learning, big d
 <img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
 <img src="https://img.icons8.com/color/96/tableau-software.png" height="50"/>
 <img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="50"/>
 <img src="https://img.icons8.com/color/96/amazon-web-services.png" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
@@ -83,7 +92,7 @@ Seeking opportunities in:
 
 • Data Analytics  
 • Machine Learning  
-• Business Intelligence  
+• Prompt Engineering  
 • Big Data & Cloud Engineering  
 
 ---
