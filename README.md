@@ -15,10 +15,8 @@ I specialize in transforming raw data into actionable insights using analytics, 
 
 • Data Analytics & Visualization  
 • Machine Learning & Predictive Modeling  
-• Prompt Engineering & Generative AI  
+• Prompt Engineering  
 • Big Data Processing (Hadoop)  
-• AWS Cloud Services  
-• SQL & NoSQL Databases  
 
 ---
 
