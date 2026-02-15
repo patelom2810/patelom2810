@@ -1,7 +1,6 @@
-<!-- Subtle Animated Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=26&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Om+Patel;Data+Analyst+%7C+AI%2FML+Engineer;Turning+Data+into+Actionable+Insights;Big+Data+%7C+Cloud+%7C+Machine+Learning" />
-</p>
+# Om Patel
+
+### Data Analyst | AI/ML Engineer | Business Intelligence Professional
 
 ---
 
@@ -47,44 +46,45 @@
 ## 🚀 About Me
 
 Data Analyst & AI/ML Engineer based in Ahmedabad, India.  
-Focused on delivering business impact through analytics, machine learning, and scalable cloud solutions.
+Focused on delivering business impact through analytics, machine learning, big data, and cloud solutions.
 
 • Data Analytics & Visualization  
 • Machine Learning & Predictive Modeling  
 • Big Data Processing  
-• Cloud Infrastructure (AWS)  
-• Database Systems (SQL & NoSQL)
+• AWS Cloud Services  
+• SQL & NoSQL Databases  
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠 Technical Stack
 
 <p align="center">
 
-<img src="https://img.icons8.com/color/96/power-bi.png" height="55"/>
-<img src="https://img.icons8.com/color/96/tableau-software.png" height="55"/>
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" height="55"/>
-<img src="https://img.icons8.com/color/96/amazon-web-services.png" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55"/>
+<img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
+<img src="https://img.icons8.com/color/96/tableau-software.png" height="50"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019--v1.png" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" height="50"/>
+<img src="https://img.icons8.com/color/96/amazon-web-services.png" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
 
 </p>
 
 ---
 
-## 🎯 Professional Goal
+## 🎯 Career Objective
 
 Seeking opportunities in:
 
 • Data Analytics  
 • Machine Learning  
 • Business Intelligence  
-• Cloud & Big Data Engineering  
+• Big Data & Cloud Engineering  
 
 ---
 
